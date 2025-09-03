@@ -1,5 +1,5 @@
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
