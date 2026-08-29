@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" height="42" />
   </a>
 </p>
 
@@ -23,23 +23,29 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Claude Code" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/stripe.svg" alt="Stripe" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/n8n-icon.svg" alt="N8N" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=py,php,laravel,mysql,mongodb,supabase,git,linux,figma,netlify,vscode&perline=11" alt="Tech stack" />
+  <br />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48" />
 </p>
 
 <br />
 
-## 🌐 Quote
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kenn-64bit&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenn-64bit&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kenn-64bit&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</div>
+
+<br />
+
+## 💬 Quote
 
 > *"Any technological or managerial scheme to force documentation can be subverted by unwilling programmers."*
 >
