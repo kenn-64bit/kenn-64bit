@@ -33,7 +33,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kenn-64bit&hide_border=true&theme=ocean-gradient" alt="GitHub streak" />
+  <a href="https://github.com/kenn-64bit"><img src="./profile/streak.svg" alt="GitHub streak" /></a>
 </div>
 
 <br />
