@@ -1,8 +1,9 @@
-<h3 align="left">You just need CC'S everday</h3>
-<hr>
+<h2 align="left">You just need CC'S everday</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d1d5db&height=1" width="100%" />
+<br>
 
 <h3 align="left">Connect</h3>
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d1d5db&height=1" width="100%" />
 <p align="left">
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="42" height="42" />
@@ -16,7 +17,7 @@
 </p>
 
 <h3 align="left">Tech Stack</h3>
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d1d5db&height=1" width="100%" />
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?logoColor=black" alt="JavaScript" width="42" height="42" />
