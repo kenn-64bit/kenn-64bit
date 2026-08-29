@@ -1,8 +1,9 @@
-<h3 align="center">CC's Are just what you need</h3>
-<h4 align="center">Coffee and Coding</h4>
+<h3 align="left">You just need CC'S everday</h3>
+<hr>
 
-<h3 align="center">Connect</h3>
-<p align="center">
+<h3 align="left">Connect</h3>
+<hr>
+<p align="left">
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="42" height="42" />
   </a>
@@ -14,8 +15,9 @@
   </a>
 </p>
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
+<h3 align="left">Tech Stack</h3>
+<hr>
+<p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?logoColor=black" alt="JavaScript" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="42" height="42" />
