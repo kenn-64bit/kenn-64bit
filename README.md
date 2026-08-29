@@ -16,9 +16,6 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
   </a>
-  <a href="mailto:YOUR-EMAIL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" alt="Gmail" width="42" height="42" />
-  </a>
 </p>
 
 <br />
@@ -34,9 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="Linux Mint" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg" alt="Stripe" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/stripe.svg" alt="Stripe" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" alt="N8N" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/n8n-icon.svg" alt="N8N" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
 </p>
 
