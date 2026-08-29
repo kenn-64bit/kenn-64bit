@@ -14,13 +14,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" height="42" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM-URL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="42" height="42" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Instagram" width="42" height="42" />
   </a>
   <a href="mailto:YOUR-EMAIL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" width="42" height="42" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" alt="Gmail" width="42" height="42" />
   </a>
 </p>
 
@@ -28,20 +28,9 @@
 
 ## 💻 Tech Stack
 
-<p align="left"> 
-
-
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<p align="left">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-
 </p>
 
 <br />
